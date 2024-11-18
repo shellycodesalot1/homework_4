@@ -6,7 +6,7 @@ class HomeScreen extends StatelessWidget {
     {'name': 'Tech Talk', 'icon': 'assets/images/tech.png'},
   ];
 
-  const HomeScreen({super.key});
+  HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
